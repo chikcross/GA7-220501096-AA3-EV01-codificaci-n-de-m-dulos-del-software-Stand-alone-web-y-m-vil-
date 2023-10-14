@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --Tipo-letra:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo-nav {
+    width: 60px;
+}    
+
+.fondo-index{
+    background: linear-gradient(135deg, #c6ced2 0%, #2732fa 100%);
+}
+.container{
+    padding: 1px;
+}
+.fondo-login{
+    background-image: url(https://todojardin.online/wp-content/uploads/2020/09/es-legal-instalar-camaras-de-videovigilancia-en-el-exterior-de-casa-.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.titulo{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 120px;
+    font-family: 'Brygada 1918', serif;  
+}
+
+.titulo2 {
+    color: rgb(0, 0, 0);
+    font-family: var(--Tipo-letra);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 5rem;
+    height: 5rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+    background-color: rgb(74, 74, 74);
+    border-radius: 15px;
+}
+.p-3{
+    
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.p1{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    font-weight: bold;
+}
+.nav-link{
+    color: white;
+}
+
+.text-body-secondary{
+    color: rgb(255, 255, 255) !important;
+}
+.form-control{
+    padding: 15px;
+}
+.h3{
+    color: white;
+    text-align: center;
+}
+.form-check-label{
+    color: white;
+}
+#floatingInput{
+    margin-bottom: 25px;
+}
+img {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.album.py {
+    background-color: #2732fa !important;
+}
+
+.col-md-6{
+   padding:0 300px 0 15px;
+}
+.col-md-3 {
+    flex: 0 0 auto;
+    width: 55%;
+    padding-left: 15px;
+    padding-right: 500px;
+}
+.fondo-registro{
+    background-image: url(https://www.viserco.com/wp-content/uploads/2020/11/tipos-de-camaras-de-seguridad.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.form-label{
+    color: white;
+}
+.nosotros{
+    padding: 15px;
+}
+.cara img{
+    height: 300px !important;
+    width: auto !important;
+    padding-left: 30% !important;
+}

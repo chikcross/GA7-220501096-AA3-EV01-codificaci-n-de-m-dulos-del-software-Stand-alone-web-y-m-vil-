@@ -1,0 +1,13 @@
+
+Cordial Saludo Profesor Cesar
+
+1 Ingresar a la carpeta -> appEagleSecurityBootStrap
+2 Ejecutar el archivo -> index.html para abrir la aplicación
+
+Nota: Debe estar conectado a internet para que se carguen los estilos de bootStrap.
+
+Feliz día 
+
+Att: Ramiro Augusto Chica Cruz cc. 98761676 ADSO 2627099
+
+Evidencia de desempeño: GA7-220501096-AA3-EV01 codificación de módulos del software Stand alone, web y móvil de acuerdo al proyecto a desarrollar.
